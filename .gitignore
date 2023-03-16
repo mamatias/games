@@ -1,5 +1,8 @@
 node_modules/
 */node_modules/
+*/ref/
+ref/
+
 
 package-lock.json
 
@@ -12,6 +15,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+
 dist
 dist-ssr
 *.local
+
+*.tiled-project
